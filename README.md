@@ -1,4 +1,4 @@
-# ShopEase-Sales-Analysis
+# Sales Data Analysis
 ## This file is created to showcase data analytics, data visualisation and programming skills.
 - In the **sales_data.xlsx file**, you would be able to find the **cleaned Excel dataset** I was working with, as well as graphs, pivot tables, and heat maps created for analysis purposes through Excel.
 
